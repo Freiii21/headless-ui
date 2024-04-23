@@ -33,7 +33,8 @@
     "react/require-default-props": "off",
     "react/prop-types": "off",
     "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "error"
+    "react-hooks/exhaustive-deps": "error",
+    "@typescript-eslint/no-unused-vars": "off"
   },
   "globals": {
     "__IS_DEV__": true
