@@ -9,7 +9,7 @@ export const fakeUserAPI = {
 						id: 0,
 						name: "Ayush",
 						age: 18,
-						twitter: "is_it_ayush",
+						twitter: "is_it_ayush_and_loooooooooong_value",
 						company: "Doofenshmirtz Evil Inc",
 					},
 					{
