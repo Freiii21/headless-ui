@@ -10,5 +10,5 @@ export const App = () => {
 };
 
 const Container = styled.div`
-	margin: 2rem 0 0 2rem;
+	padding: 2rem 2rem 0 2rem;
 `;
